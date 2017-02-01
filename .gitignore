@@ -1,2 +1,7 @@
 *.zip
 *.cmp
+*/Project\ Outputs*
+*/*/Project\ Outputs*
+*/*/*/Project\ Outputs*
+*/*/*/*/Project\ Outputs*
+*/__Previews
